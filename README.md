@@ -1,2 +1,2 @@
-# machinelearning
-Machine learning samples
+# Machine learning
+Machine learning algorithms fundamentals playing 
